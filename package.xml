@@ -3,8 +3,8 @@
 <package format="3">
   <name>my_bot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
+  <description>TODO: Package description</utocar>
+  <maintainer email="010096.ahmed@Gmail.com">samir323</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
